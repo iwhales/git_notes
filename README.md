@@ -11,3 +11,10 @@
 - [Pro Git](https://git-scm.com/book/zh/v2) —— 教程
 - [图解 Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) —— 图解常用命令
 - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) 、 [Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html) —— 阮一峰
+
+## 相关阅读
+
+《GitHub 入门与实践》- 大塚弘记（日本）著  
+
+-  http://www.ituring.com.cn/book/1581 - 中文勘误
+
